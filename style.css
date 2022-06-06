@@ -1,0 +1,15 @@
+.header{
+    width:100%;
+}
+#color{
+    color: black;
+}
+body{
+    background-image: url("rainbow.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#object{
+    width:50%;
+}
